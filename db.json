@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback item 1 coming from the json-server"
+    },
+    {
+      "text": "JSON Server is amazing",
+      "rating": 7,
+      "id": 6
+    },
+    {
+      "text": "Traversy Media is a beast IN TEACHING",
+      "rating": 7,
+      "id": 7
+    },
+    {
+      "text": "New test to updated and  nno points",
+      "rating": 7,
+      "id": 8
+    },
+    {
+      "text": "Some new review after updating",
+      "rating": 9,
+      "id": 9
+    }
+  ]
+}
